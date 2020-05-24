@@ -1,6 +1,7 @@
 **Опис скриншотів**
 **Спочатку запускаємо Riak в Docker.**
 ![Image1](https://github.com/DmitriySinilo/DockerLabs/blob/lab6/lb6/1.PNG)
+
 **Зображена стартова сторінка Riak.**
 ![Image1](https://github.com/DmitriySinilo/DockerLabs/blob/lab6/lb6/2.PNG)
 **Відсилаємо запит на /ping  щоб перевірити що з’єднання працює.**

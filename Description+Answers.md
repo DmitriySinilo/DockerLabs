@@ -1,4 +1,4 @@
-**Опис скриншотів**
+**Опис скриншотів.**
 
 **Спочатку завантажуємо та запускаємо mongo image**
 ![](https://github.com/DmitriySinilo/DockerLabs/blob/lab7/Lab7/1.PNG)
